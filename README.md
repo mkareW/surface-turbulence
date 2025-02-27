@@ -1,7 +1,8 @@
 # surface-turbulence
 R scripts for calculation of surface turbulent fluxes over snow/ice
 
-mobulk3: R function to calculate surface turbulent fluxes (latent and sensible heat fluxes) using data from a meteorological station located above the ice. The function takes as entry:
+mobulk3: R function to calculate surface turbulent fluxes (latent and sensible heat fluxes), with the "bulk aerodynamic" methid. Input data from a meteorological station located above the ice.
+The function takes as entry:
 
 #V windspeed in ms-1
 
